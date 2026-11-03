@@ -59,3 +59,18 @@ This project was conducted for educational purposes using OWASP Juice Shop in a 
 ## Project Status
 
 Completed – Five practical challenge scenarios documented.
+
+## Full Project Report
+
+[View OWASP Juice Shop Security Assessment Report (PDF)](report/OWASP-Juice-Shop-Security-Assessment.pdf)
+
+## Project Evidence
+
+### Juice Shop Scoreboard
+![Scoreboard](screenshots/06-juiceshop-scoreboard.png)
+
+### Burp Suite HTTP History
+![Burp Suite](screenshots/03-burp-http-history.png)
+
+### DOM XSS Challenge
+![DOM XSS](screenshots/07-juiceshop-dom-xss.png)
