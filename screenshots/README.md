@@ -1,0 +1,3 @@
+# Screenshot Evidence
+
+This folder contains 11 screenshots from the OWASP Juice Shop security assessment.
